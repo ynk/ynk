@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hi there :sunglasses:
 
-<!--
-**ynk/ynk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p>Welcome to Github profile!</br>
+I'm <b>ynk</b>, A Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197583.png" width="10"/> Belgium <br> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+
+
+### About me
+
+-   :key: GPG key: [`1DAEC83D7CA8E7AA`](https://github.com/ynk.gpg)
+-   :milky_way: My website: [ynk.me](https://ynk.me)
+-   :computer: I'm currently working on [Lookup.GG](https://Lookup.GG)
+-   :mailbox: If you want to contact me, you can reach me at [`hi@ynk.me`](mailto:hi@ynk.me)
+-   :books: I'm currently learning learning on how to use `Ghidra` and `IDA` to reverse engineer crackme's and malware
+
+
+### Languages and Tools
+-   :computer: Python, JavaScript, HTML, CSS, PHP, C#, Kotlin, Java
+-   :cloud: AWS, Azure, OVH, Hetzner
+-   :wrench: Docker, Git, Github, Apache, MySQL, Mongo, Linux, Windows
+
+### Stats
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynk&layout=compact&theme=dark" alt="Top Langs" style="width: 50%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ynk&show_icons=true&theme=dark" alt="ynk's github stats" style="width: 50%;" />
+</div>
+
+
+
+
