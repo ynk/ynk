@@ -1,7 +1,7 @@
 ### Hi there :sunglasses:
 
 
-<p>Welcome to Github profile!</br>
+<p>Welcome to my Github profile!</br>
 I'm <b>ynk</b>, A Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197583.png" width="10"/> Belgium <br> 
 
 </p>
