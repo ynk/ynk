@@ -25,7 +25,7 @@ I'm <b>ynk</b>, A Fullstack developer from <img src="https://cdn-icons-png.flati
 ### Stats
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynk&layout=compact&theme=dark" alt="Top Langs" style="width: 50%;" />
+  <img src="https://ynk.me/git/gen/languages.svg#gh-dark-mode-only" alt="Top Langs" style="width: 50%;" />
     <img src="https://github-readme-stats.vercel.app/api?username=ynk&show_icons=true&theme=dark" alt="ynk's github stats" style="width: 50%;" />
 </div>
 
