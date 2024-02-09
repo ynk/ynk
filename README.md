@@ -14,8 +14,7 @@ I'm <b>ynk</b>, A Fullstack developer from <img src="https://cdn-icons-png.flati
 -   :milky_way: My website: [ynk.me](https://ynk.me)
 -   :computer: I'm currently working on [Lookup.GG](https://Lookup.GG)
 -   :mailbox: If you want to contact me, you can reach me at [`hi@ynk.me`](mailto:hi@ynk.me)
--   :books: I'm currently learning learning on how to use `Ghidra` and `IDA` to reverse engineer crackme's and malware
-
+-   :books: I'm currently learning learning on how to use `Ghidra` and `IDA`.
 
 ### Languages and Tools
 -   :computer: Python, JavaScript, HTML, CSS, PHP, C#, Kotlin, Java
