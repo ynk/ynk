@@ -28,6 +28,8 @@ I'm <b>ynk</b>, A Fullstack developer from <img src="https://cdn-icons-png.flati
     <img src="https://github-readme-stats.vercel.app/api?username=ynk&show_icons=true&theme=dark" alt="ynk's github stats" style="width: 50%;" />
 </div>
 
+### Blog & Homepage
 
+I have a blog at [blog.ynk.me](https://blog.ynk.me) and my homepage is [ynk.me](https://ynk.me).
 
 
