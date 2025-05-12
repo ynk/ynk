@@ -3,6 +3,7 @@
 
 <p>Welcome to my Github profile!</br>
 I'm <b>ynk</b>, A Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197583.png" width="10"/> Belgium <br> 
+I moslty play League Of Legends and Osu!
 
 </p>
 
